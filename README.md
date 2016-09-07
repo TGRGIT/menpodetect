@@ -1,12 +1,12 @@
 Menpodetect (Non-conda version)
 ================
-This is a stripped-down version of the Menpo project's MenpoDetect Library
-Only ffld2 & dlib are supported
+This is a stripped-down version of the Menpo project's MenpoDetect Library.
+Only ffld2 & dlib are supported.
 
 The good news is, you don't need conda.
 What you will need;
-Eigen
-dlib
+- Eigen
+- dlib
 
 
 
